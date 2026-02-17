@@ -1,4 +1,3 @@
-# deraje-soresa-5026
 <h1 align="center">Hi there 👋, I'm Dereje</h1>
 <h3 align="center">I'm Computer Science student building modern web experiences and I'm a creative Full Stack Web Developer based in Ethiopia. I'm very passionate and dedicated to my work. With few years experience as a professional Full Stack Developer, I have acquired the skills necessary to build great, appealing, and premium websites that meet the latest web standards.</h3>
 
