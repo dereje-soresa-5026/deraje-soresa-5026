@@ -1,13 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Dereje</h1>
 <h3 align="center">I'm Computer Science student building modern web experiences and I'm a creative Full Stack Web Developer based in Ethiopia. I'm very passionate and dedicated to my work. With few years experience as a professional Full Stack Developer, I have acquired the skills necessary to build great, appealing, and premium websites that meet the latest web standards.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dereje-soresa-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="dereje-soresa-jpg" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dereje-soresa-jpg" alt="dereje-soresa-jpg" /></a> </p>
+
 - 🔭 I’m currently working on **A modern Task manager web application focused on productivity and clean UI.**
 
-- 🌱 I’m currently learning **🌱 I’m currently learning production-ready full-stack development using React and animation libraries**
+- 🌱 I’m currently learning **🌱 I’m currently learning production-ready full-stack development using React ,python and animation libraries**
 
 - 👯 I’m looking to collaborate on **I’m open to collaborating on frontend and open-source projects, especially those using: React html, css , js, Modern UI/UX patterns**
 
-- 💬 Ask me about **JavaScript, React, html, css, python, mysql and full-stack best practices**
+- 💬 Ask me about **JavaScript, html, css, mysql ,php and full-stack best practices**
 
 - 📫 How to reach me **derajesoresa@gmail.com**
 
